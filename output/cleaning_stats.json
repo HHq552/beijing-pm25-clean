@@ -1,0 +1,14 @@
+{
+  "raw_cells": 9954770,
+  "empty_cells": 866466,
+  "negative_values": 0,
+  "over_limit": 1300,
+  "hours_total": 287928,
+  "invalid_hours": 18565,
+  "days_dropped": 63,
+  "clean_days": 3936,
+  "expected_days": 4018,
+  "clean_coverage": 0.9796,
+  "mean_station": 35.0,
+  "weather_days": 3999
+}
